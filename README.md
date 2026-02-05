@@ -47,12 +47,14 @@ DL-HW2/
 ### Prerequisites
 
 ```bash
-# Required packages
+pip install numpy matplotlib jupyter
+```
+
+Required:
 - Python 3.x
 - Jupyter Notebook
 - NumPy
 - Matplotlib (for visualizations)
-```
 
 ### Running the Code
 
@@ -92,7 +94,7 @@ Version 2 enhances training through:
 
 ## 📚 References
 
-- Section 6.5.4 of the course textbook: Backpropagation in MLPs
+- Course textbook, Section 6.5.4: Backpropagation in MLPs (Deep Learning textbook)
 - Original problem statement: `Q1_DLHW2.jpg`
 
 ## 💡 Discussion Points
